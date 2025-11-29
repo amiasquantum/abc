@@ -1,0 +1,13 @@
+[
+  {"name": "background", "url": "/balloon_pop/background.mp3"},
+  {"name": "city_view", "url": "/balloon_pop/city_view.mp3"},
+  {"name": "combo", "url": "/balloon_pop/combo.wav"},
+  {"name": "green_forest", "url": "/balloon_pop/green_forest.mp3"},
+  {"name": "pop", "url": "/balloon_pop/pop.wav"},
+  {"name": "premium_valley", "url": "/balloon_pop/premium_valley.mp3"},
+  {"name": "rainy_day", "url": "/balloon_pop/rainy_day.mp3"},
+  {"name": "snow_mountain", "url": "/balloon_pop/snow_mountain.mp3"},
+  {"name": "sunny_day", "url": "/balloon_pop/sunny_day.mp3"},
+  {"name": "sunrise_beach", "url": "/balloon_pop/sunrise_beach.mp3"},
+  {"name": "trap", "url": "/balloon_pop/trap.mp3"}
+]
