@@ -13,5 +13,7 @@
   { "name": "Car Question English", "url": "wheel/file/txt/question_b_en.json" },
   { "name": "Car Question Nepali", "url": "wheel/file/txt/question_b_np.json" },
   { "name": "Vision Test Images", "url": "wheel/file/txt/eye_vision_test.json" },
-  { "name": "Road Sign Info", "url": "wheel/file/txt/road_sign.json" }
+  { "name": "Road Sign Info", "url": "wheel/file/txt/road_sign.json" },
+  { "name": "Road Sign Images", "url": "wheel/file/image/road_sign.zip" },
+  { "name": "Vision Test Images", "url": "wheel/file/image/vision.zip" }
 ]
