@@ -1,0 +1,17 @@
+[
+  { "name": "A Trial Info", "url": "wheel/file/txt/a_exam_info.json" },
+  { "name": "B Trial Info", "url": "wheel/file/txt/b_exam_info.json" },
+  { "name": "Additional Info", "url": "wheel/file/txt/additional_info.json" },
+  { "name": "Category Info", "url": "wheel/file/txt/category.json" },
+  { "name": "Category Addition Info", "url": "wheel/file/txt/category_addition_info.json" },
+  { "name": "FAQs", "url": "wheel/file/txt/faqs.json" },
+  { "name": "New Application Info", "url": "wheel/file/txt/new_application_info.json" },
+  { "name": "A Important Info", "url": "wheel/file/txt/imp_info_a.json" },
+  { "name": "B Important Info", "url": "wheel/file/txt/imp_info_b.json" },
+  { "name": "A Question English", "url": "wheel/file/txt/question_a_en.json" },
+  { "name": "A Question Nepali", "url": "wheel/file/txt/question_a_np.json" },
+  { "name": "B Question English", "url": "wheel/file/txt/question_b_en.json" },
+  { "name": "B Question Nepali", "url": "wheel/file/txt/question_b_np.json" },
+  { "name": "Vision Test Images", "url": "wheel/file/txt/eye_vision_test.json" },
+  { "name": "Road Sign Info", "url": "wheel/file/txt/road_sign.json" }
+]
