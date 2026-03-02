@@ -1,6 +1,6 @@
 {
   "version_name": "0.0.1",
-  "version_code": 1
+  "version_code": 1,
   "endpoints": [
   {"name": "background", "url": "/balloon_pop/v1/audio/background.mp3", "hasUpdate": false },
   {"name": "city_view", "url": "/balloon_pop/v1/audio/city_view.mp3", "hasUpdate": false },
